@@ -41,11 +41,9 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Predict The Winner - Leetcode 486 - Python]()](https://www.youtube.com/watch?v=dhHHYy8kP00)
-[![Reverse Linked List - Leetcode 206 - C Language]()](https://www.youtube.com/watch?v=uBw8xsfwnFw)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@_mokhtari?sub_confirmation=1)
 
 #
 
