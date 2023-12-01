@@ -41,8 +41,6 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Predict The Winner - Leetcode 486 - Python](https://ytcards.demolab.com/?id=dhHHYy8kP00&title=Predict+The+Winner+-+Leetcode+486+-+Python&lang=en&timestamp=1694886793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Predict The Winner - Leetcode 486 - Python")](https://www.youtube.com/watch?v=dhHHYy8kP00)
-[![Reverse Linked List - Leetcode 206 - C Language](https://ytcards.demolab.com/?id=uBw8xsfwnFw&title=Reverse+Linked+List+-+Leetcode+206+-+C+Language&lang=en&timestamp=1681939631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Reverse Linked List - Leetcode 206 - C Language")](https://www.youtube.com/watch?v=uBw8xsfwnFw)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@_mokhtari?sub_confirmation=1)
@@ -58,7 +56,7 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
 #
 
 <details>
- <summary><h3>🚀 Coding Journey</h3></summary>
+ <summary><h3>🚀 My Coding Journey</h3></summary>
    In my four-year journey mastering voice acting and teaching, I've become adept at understanding the unique needs of my clients and students. It's a craft I've truly mastered. Recently, my interest took an unexpected turn towards cybersecurity after an engaging podcast episode with a cybersecurity expert and observing the excitement around Capture The Flag (CTF) challenges. 
    
    This shift resonates deeply with my affinity for development and creating products. The prospect of securing digital landscapes aligns seamlessly with my passion for building and innovating. The intriguing insights from the expert conversation, the thrill of CTFs, and the fusion with my interest in development have sparked a new curiosity. Cybersecurity isn't just a pivot; it's an expansion of my expertise beyond voice modulation and education into the dynamic world of safeguarding digital landscapes. I'm eager to embark on this journey, leveraging my existing skills while embracing the challenges and opportunities that come with securing the digital frontier.
