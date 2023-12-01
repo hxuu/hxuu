@@ -61,6 +61,3 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
    
    This shift resonates deeply with my affinity for development and creating products. The prospect of securing digital landscapes aligns seamlessly with my passion for building and innovating. The intriguing insights from the expert conversation, the thrill of CTFs, and the fusion with my interest in development have sparked a new curiosity. Cybersecurity isn't just a pivot; it's an expansion of my expertise beyond voice modulation and education into the dynamic world of safeguarding digital landscapes. I'm eager to embark on this journey, leveraging my existing skills while embracing the challenges and opportunities that come with securing the digital frontier.
 
-[linkedin](https://dz.linkedin.com/in/anas-mokhtari)
-[youtube](https://www.youtube.com/@_mokhtari)
-[discord]: 4nskarts
