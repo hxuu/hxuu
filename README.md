@@ -56,11 +56,11 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
 #
 
 <details>
- <summary><h3>👨‍💻 Anas's Coding Journey</h3></summary>
+ <summary><h3>🚀 Coding Journey</h3></summary>
    In my four-year journey mastering voice acting and teaching, I've become adept at understanding the unique needs of my clients and students. It's a craft I've truly mastered. Recently, my interest took an unexpected turn towards cybersecurity after an engaging podcast episode with a cybersecurity expert and observing the excitement around Capture The Flag (CTF) challenges. 
    
    This shift resonates deeply with my affinity for development and creating products. The prospect of securing digital landscapes aligns seamlessly with my passion for building and innovating. The intriguing insights from the expert conversation, the thrill of CTFs, and the fusion with my interest in development have sparked a new curiosity. Cybersecurity isn't just a pivot; it's an expansion of my expertise beyond voice modulation and education into the dynamic world of safeguarding digital landscapes. I'm eager to embark on this journey, leveraging my existing skills while embracing the challenges and opportunities that come with securing the digital frontier.
 
-[linkedin]: https://dz.linkedin.com/in/anas-mokhtari
-[youtube]: https://www.youtube.com/@_mokhtari
+[linkedin](https://dz.linkedin.com/in/anas-mokhtari)
+[youtube](https://www.youtube.com/@_mokhtari)
 [discord]: 4nskarts
