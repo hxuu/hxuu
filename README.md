@@ -5,7 +5,7 @@
 I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down difficult concepts has always been my favorite thing to do. I picked Computer science as my major, and work to create solutions to problems. Additionally, I love teaching. I believe knowledge is ought to be shared. However, knowing how to share this knowledge meant even more to me, thus making me who I am.
 
 
-   <p align="left">
+   <!-- <p align="left">
       <a href="https://www.youtube.com/@_mokhtari?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@_mokhtari">
@@ -14,7 +14,7 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/4nskarts?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> -->
 
 ---
 
@@ -58,7 +58,9 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
 
 <details>
  <summary><h3>👨‍💻 Anas's Coding Journey</h3></summary>
-   In my four-year journey mastering voice acting and teaching, I've become adept at understanding the unique needs of my clients and students. It's a craft I've truly mastered. Recently, my interest took an unexpected turn towards cybersecurity after an engaging podcast episode with a cybersecurity expert and observing the excitement around Capture The Flag (CTF) challenges. This shift resonates deeply with my affinity for development and creating products. The prospect of securing digital landscapes aligns seamlessly with my passion for building and innovating. The intriguing insights from the expert conversation, the thrill of CTFs, and the fusion with my interest in development have sparked a new curiosity. Cybersecurity isn't just a pivot; it's an expansion of my expertise beyond voice modulation and education into the dynamic world of safeguarding digital landscapes. I'm eager to embark on this journey, leveraging my existing skills while embracing the challenges and opportunities that come with securing the digital frontier.
+   In my four-year journey mastering voice acting and teaching, I've become adept at understanding the unique needs of my clients and students. It's a craft I've truly mastered. Recently, my interest took an unexpected turn towards cybersecurity after an engaging podcast episode with a cybersecurity expert and observing the excitement around Capture The Flag (CTF) challenges. 
+   
+   This shift resonates deeply with my affinity for development and creating products. The prospect of securing digital landscapes aligns seamlessly with my passion for building and innovating. The intriguing insights from the expert conversation, the thrill of CTFs, and the fusion with my interest in development have sparked a new curiosity. Cybersecurity isn't just a pivot; it's an expansion of my expertise beyond voice modulation and education into the dynamic world of safeguarding digital landscapes. I'm eager to embark on this journey, leveraging my existing skills while embracing the challenges and opportunities that come with securing the digital frontier.
 
 [linkedin]: https://dz.linkedin.com/in/anas-mokhtari
 [youtube]: https://www.youtube.com/@_mokhtari
