@@ -40,8 +40,8 @@ I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down d
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Predict The Winner - Leetcode 486 - Python](https://ytcards.demolab.com/?id=8XVI_Zrvz3c&title=These+Coding+Projects+Will+Set+You+Apart+as+a+Programmer+%28w%2F+Instructions+Included%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1268 "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://www.youtube.com/watch?v=dhHHYy8kP00)
-[![Reverse Linked List - Leetcode 206 - C Language](https://ytcards.demolab.com/?id=YuJ6jEb3bOQ&title=Dev+Startup+Day+10+-+Code+with+Me&lang=en&timestamp=1700917232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2132 "Dev Startup Day 10 - Code with Me")](https://www.youtube.com/watch?v=uBw8xsfwnFw)
+[![Predict The Winner - Leetcode 486 - Python]()](https://www.youtube.com/watch?v=dhHHYy8kP00)
+[![Reverse Linked List - Leetcode 206 - C Language]()](https://www.youtube.com/watch?v=uBw8xsfwnFw)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
