@@ -5,16 +5,16 @@
 I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down difficult concepts has always been my favorite thing to do, and solving problems has always led me to great pleasure. All my github repos are made from the ground up. Additionally, I love teaching. I believe knowledge is ought to be shared. However, knowing how to share this knowledge meant even more to me, that's why I opened a YouTube channel by my name "[Anas Mokhtari](https://www.youtube.com/@_mokhtari)".
 
 
-   <p align="left">
+   <!-- <p align="left">
       <a href="https://www.youtube.com/@_mokhtari?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/@_mokhtari?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <!-- <a href="https://www.youtube.com/@_mokhtari">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> -->
       <a href="https://github.com/4nskarts?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/4nskarts?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/4nskarts?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4nskarts?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> -->
 
 ---
 
