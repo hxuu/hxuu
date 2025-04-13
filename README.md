@@ -2,7 +2,7 @@
 
 **`Problem Solver (Developer/Voice-Actor/Creator)`**
 
-I am Anas, a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down difficult concepts has always been my favorite thing to do, and solving problems has always led me to great pleasure. All my github repos are made from the ground up. Additionally, I love teaching. I believe knowledge is ought to be shared. However, knowing how to share this knowledge meant even more to me, that's why I opened a YouTube channel by my name "[Anas Mokhtari](https://www.youtube.com/@_mokhtari)".
+I am a Comp Sci Student, Chess Instructor and Voice Actor. Breaking down difficult concepts has always been my favorite thing to do, and solving problems has always led me to great pleasure. All my github repos are made from the ground up. Additionally, I love teaching. I believe knowledge is ought to be shared. However, knowing how to share this knowledge meant even more to me, that's why I opened a YouTube channel by my name "[here](https://www.youtube.com/@_mokhtari)".
 
 
    <!-- <p align="left">
